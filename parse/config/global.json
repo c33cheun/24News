@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "newshackday"
+        }, 
+        "newshackday": {
+            "applicationId": "2Xaapn0mwNR8Z8jSb2E47DygGDpEAlO2Ily0IXrk", 
+            "masterKey": "8MRk4TyppzHusviu1R1u06aFtg6upj3knR77CpHX"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.0"
+    }
+}
